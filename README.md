@@ -17,4 +17,4 @@ Le GDD de ce projet détaille les aspects fondamentaux du design, des mécanique
 ## Installation et lancement
 1. Clonez ce dépôt :
    ```bash
-   git clone https://github.com/thierry-mous/GroupeH_FPS_microgame
+   git clone https://github.com/thierry-mous/FPS_Microgame_GroupeH
