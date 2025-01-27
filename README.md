@@ -10,6 +10,7 @@ BLOODBURST est un jeu vidéo en 3D développé sous Unity. Ce projet vise à off
 ## Lien vers le Game Design Document (GDD)
 Le GDD de ce projet détaille les aspects fondamentaux du design, des mécaniques et de l'expérience utilisateur :  
 [🔗 Accéder au GDD](https://docs.google.com/document/d/1mTc3fczC-JckNj1ZwcryHf50iA7J721oXqoC5VzzN_g/edit?usp=sharing)
+[🔗 Accéder au Level Design](https://excalidraw.com/#room=e5453d295d2338b10d6c,7a_jedPQ6GOH7Za5N4KfMA)
 
 ## Prérequis
 - Unity (version recommandée : [ex. 2023.1.0f1 ou version ultérieure])
